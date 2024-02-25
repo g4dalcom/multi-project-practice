@@ -1,1 +1,4 @@
 rootProject.name = 'multi-project'
+include 'module-boot'
+include 'module-domain'
+include 'module-controller'
